@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Cesca19
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Computer Science at Epitech
-- 💞️ I’m looking to collaborate on big and interessing projet about machine learning and data science
-- 📫 How to reach me ...
+- 👀 I’m interested in **Game Design and Development**
+- 🌱 I’m currently learning Computer Science at Epitech Bénin
+- **💞️ I love working on all types of video game development projects**
+- 📫 Reach me on 00 229 95 48 04 47
 
 <!---
 Cesca19/Cesca19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
