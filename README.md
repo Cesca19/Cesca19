@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fran
-- 👀 I’m interested in **Game Engine Programing and  Gamr Development**
+- 👀 I’m interested in **Game Engine Programing and  Game Development**
 - 🌱 I’m currently learning Game Programing Gaming Campus Lyon
 - **💞️ I love working on all types of video game development projects**
 - 📫 Reach me on fifame.francesca@gmail.com
